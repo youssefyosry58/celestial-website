@@ -1,0 +1,131 @@
+body
+{
+    background-image: url(celesty.png);
+    background-position: center;
+    background-size: cover;
+    min-height: 100%;
+    font-family: "Raleway", sans-serif;
+    color: white;
+    width 300px; 
+}
+h1
+{
+    align-self: center;
+    align-content: stretch;
+
+}
+a
+{
+    text-decoration: unset;
+    color: white;
+}
+a:hover
+{
+    text-decoration: unset;
+    color: white;
+    text
+}
+hr
+{
+    
+}
+button
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lavenderblush;
+    size: 20px;
+}
+ul
+{
+
+    display: inline;
+    word-spacing: 120px;
+    text-align: left;
+    background-position: right;
+    right: inherit; 
+}
+li
+{
+    display: inline;
+    word-spacing: 30px;
+    text-align: right;
+    
+    margin: solid 10 px;
+    text-align: center;
+    font-size: larger;
+    background-position: right;
+}
+h1
+{
+    text-align: center;
+    margin-block-start: inherit;
+}
+p
+{
+    margin-block-start: inherit;
+    text-align: center;
+    font-size: 20px;
+}
+li:hover
+{
+    background-color: chocolate;
+    padding: 5px;
+    
+}
+fieldset
+{
+    text-align: center;
+    border-collapse: collapse;
+    border-style: groove;
+    border-radius: 50px;
+    border-spacing: inherit;
+    font-size: 25px;
+    box-sizing: content-box;
+}
+a
+{
+    color: wheat;
+}
+a:hover
+{
+    text-decoration: unset;
+    color: chocolate;
+}
+
+button
+{
+    background-color: #cccccc;
+    border: solid 1px #665544;
+    padding: 2px;
+    size: 40px;
+}
+button:hover
+{
+    background-color: chocolate;
+}
+
+input
+{
+    padding: 6px 12px 6px 12px;
+    border: 1px solid #665544;
+    color: #ffffff;
+    border-style: groove;
+}
+input:hover
+{
+    background-color: chocolate;
+
+}
+div.1
+{
+    text-align: left;
+    max-width: 10px;
+}
+div.2
+{
+    text-align: center;
+}
+div.1
+{
+    text-align: :right;
+}

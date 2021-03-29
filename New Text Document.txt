@@ -1,0 +1,35 @@
+<html>
+    <head>
+  <link rel="stylesheet" href="style.css">
+  <title>Home</title>
+    </head>
+    <body>
+        <h1>The celestial creature welcomes you!</h1>
+        <div class="1">
+            <p>
+                SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA 
+                        SAMA SAMA SAMASAMA SAMA SAMA SAMA SAMA  SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA 
+                        SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA 
+                        SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA 
+            </p>
+        </div>
+        <div class="2">
+            <p>
+                SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA 
+                        SAMA SAMA SAMASAMA SAMA SAMA SAMA SAMA  SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA 
+                        SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA 
+                        SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA 
+            </p>
+        </div>
+        <div class="3">
+            <p>
+                SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA 
+                        SAMA SAMA SAMASAMA SAMA SAMA SAMA SAMA  SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA 
+                        SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA 
+                        SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA SAMA 
+            </p>
+        </div>
+
+
+    </body>
+</html>
